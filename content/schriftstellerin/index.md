@@ -16,4 +16,4 @@ Katharina Ingrid Godler wurde 1991 in Wien Favoriten geboren. Sie studierte Verg
 ## Stipendien und Auszeichungen
 
 <p style="float: left;margin-right: 20px;margin-top: 0;height: 3rem;">14.02.2020</p>
-<p>Arbeitsstipendium Literatur des BMKÖS Kunst und Kultur für das Romanprojekt „Die Teestunde im Inneren“</p>
+<p>Arbeitsstipendium Literatur des BMKÖS Kunst und Kultur für das Romanprojekt „Die Gerlitzenwiege“</p>

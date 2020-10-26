@@ -4,7 +4,7 @@ title = "Katharina Ingrid Godler"
 theme = "hello-friend-ng"
 
 [author]
-    name = "Katharina Godler"
+    name = "Katharina Ingrid Godler"
 
 [params]
     # Subtitle for home
@@ -15,8 +15,8 @@ theme = "hello-friend-ng"
 
     defaultTheme = "light"
 
-    # footerLeft = "Foobar"
-    footerRight = "Baz"
+    footerLeft = "<a href=\"mailto:ki@godler.art\">ki@godler.art</a>"
+    footerRight = " "
 
   [params.logo]
     logoText     = "Katharina Ingrid Godler"
@@ -43,21 +43,21 @@ theme = "hello-friend-ng"
 
 [menu]
   [[menu.main]]
-    identifier = "writer"
+    identifier = "schriftstellerin"
     name       = "Schriftstellerin"
-    url        = "writer/"
+    url        = "schriftstellerin/"
     weight     = 1
 
   [[menu.main]]
-    identifier = "editor"
+    identifier = "lektorin"
     name       = "Lektorin"
-    url        = "editor/"
+    url        = "lektorin/"
     weight     = 2
 
   [[menu.main]]
-    identifier = "latest"
+    identifier = "aktuelles"
     name       = "Aktuelles"
-    url        = "latest/"
+    url        = "aktuelles/"
     weight     = 3
 
 [markup]
