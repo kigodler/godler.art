@@ -1,3 +1,66 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "http://godler.art/"
+languageCode = "de-at"
+title = "Katharina Ingrid Godler"
+theme = "hello-friend-ng"
+
+[author]
+    name = "Katharina Godler"
+
+[params]
+    # Subtitle for home
+    homeSubtitle = "Schreiben, schreiben, ..."
+
+    # Enable sharing buttons, if you linke
+    enableSharingButtons = true
+
+    defaultTheme = "light"
+
+    # footerLeft = "Foobar"
+    footerRight = "Baz"
+
+  [params.logo]
+    logoText     = "Katharina Ingrid Godler"
+    logoHomeLink = "/"
+    # Set true to remove the logo cursor entirely.
+    logoCursorDisabled = true
+
+[[params.social]]
+    name = "facebook"
+    url = "https://www.facebook.com/katharina.godler/"
+
+[[params.social]]
+    name = "instagram"
+    url = "https://www.instagram.com/kraeheedeltraud/"
+
+# [[params.social]]
+#     name = "twitter"
+#     url = "https://twitter.com/EdeltraudKrahe"
+
+
+[languages]
+    [languages.en]
+        title = "Katharina Ingrid Godler"
+
+[menu]
+  [[menu.main]]
+    identifier = "writer"
+    name       = "Schriftstellerin"
+    url        = "writer/"
+    weight     = 1
+
+  [[menu.main]]
+    identifier = "editor"
+    name       = "Lektorin"
+    url        = "editor/"
+    weight     = 2
+
+  [[menu.main]]
+    identifier = "latest"
+    name       = "Aktuelles"
+    url        = "latest/"
+    weight     = 3
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
