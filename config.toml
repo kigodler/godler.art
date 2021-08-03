@@ -19,7 +19,8 @@ theme = "hello-friend-ng"
     footerRight = " "
 
   [params.logo]
-    logoText     = "Katharina Godler"
+    logoText = "Katharina Godler"
+    logoMark = " "
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     logoCursorDisabled = true
