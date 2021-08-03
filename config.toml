@@ -1,25 +1,25 @@
 baseURL = "http://godler.art/"
 languageCode = "de-at"
-title = "Katharina Ingrid Godler"
+title = "Katharina Godler"
 theme = "hello-friend-ng"
 
 [author]
-    name = "Katharina Ingrid Godler"
+    name = "Katharina Godler"
 
 [params]
     # Subtitle for home
-    homeSubtitle = "Schreiben, schreiben, ..."
+    homeSubtitle = "Autorin und Journalistin"
 
     # Enable sharing buttons, if you linke
     enableSharingButtons = true
 
     defaultTheme = "light"
 
-    footerLeft = "<a href=\"mailto:ki@godler.art\">ki@godler.art</a>"
+    footerLeft = "<a href=\"mailto:katharina@godler.art\">katharina@godler.art</a>"
     footerRight = " "
 
   [params.logo]
-    logoText     = "Katharina Ingrid Godler"
+    logoText     = "Katharina Godler"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     logoCursorDisabled = true
@@ -28,37 +28,43 @@ theme = "hello-friend-ng"
     name = "facebook"
     url = "https://www.facebook.com/katharina.godler/"
 
-[[params.social]]
-    name = "instagram"
-    url = "https://www.instagram.com/kraeheedeltraud/"
+#[[params.social]]
+#    name = "instagram"
+#    url = "https://www.instagram.com/kraeheedeltraud/"
 
-# [[params.social]]
-#     name = "twitter"
-#     url = "https://twitter.com/EdeltraudKrahe"
+[[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/EdeltraudKrahe"
 
 
 [languages]
     [languages.en]
-        title = "Katharina Ingrid Godler"
+        title = "Katharina Godler"
 
 [menu]
   [[menu.main]]
-    identifier = "schriftstellerin"
-    name       = "Schriftstellerin"
-    url        = "schriftstellerin/"
+    identifier = "radio"
+    name       = "Radio"
+    url        = "radio/"
     weight     = 1
 
   [[menu.main]]
-    identifier = "lektorin"
-    name       = "Lektorin"
-    url        = "lektorin/"
+    identifier = "belletristik"
+    name       = "Belletristik"
+    url        = "belletristik/"
     weight     = 2
 
   [[menu.main]]
-    identifier = "aktuelles"
-    name       = "Aktuelles"
-    url        = "aktuelles/"
+    identifier = "lyrik"
+    name       = "Lyrik"
+    url        = "lyrik/"
     weight     = 3
+
+    [[menu.main]]
+    identifier = "about"
+    name       = "about"
+    url        = "about/"
+    weight     = 4
 
 [markup]
   [markup.goldmark]
