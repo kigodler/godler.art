@@ -63,9 +63,9 @@ theme = "hello-friend-ng"
     url        = "lyrik/"
     weight     = 3
 
-    [[menu.main]]
+  [[menu.main]]
     identifier = "about"
-    name       = "| about"
+    name       = "about"
     url        = "about/"
     weight     = 4
 
