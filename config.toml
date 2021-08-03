@@ -10,6 +10,8 @@ theme = "hello-friend-ng"
     # Subtitle for home
     homeSubtitle = "Autorin und Journalistin"
 
+    backgroundImage = "home/RauchenwaldWebseite-Startseite.jpg"
+
     # Enable sharing buttons, if you linke
     enableSharingButtons = true
 
@@ -63,7 +65,7 @@ theme = "hello-friend-ng"
 
     [[menu.main]]
     identifier = "about"
-    name       = "about"
+    name       = "| about"
     url        = "about/"
     weight     = 4
 

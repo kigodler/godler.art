@@ -32,5 +32,3 @@ draft: true
 * _Radio Agora 105,5_
 * _Radio Österreich 1_ (Ö1)
 * _Bachmannwettbewerb_ (3sat)
-
-## --> Preis nach Absprache
