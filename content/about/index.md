@@ -1,7 +1,5 @@
 ---
 title: ""
-date: 2020-10-24T18:00:02+02:00
-draft: true
 ---
 
 <img style="height: 300px" src="godler2_300px.jpg" />

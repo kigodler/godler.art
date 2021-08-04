@@ -1,7 +1,5 @@
 ---
 title: ""
-date: 2020-10-24T18:00:22+02:00
-draft: true
 ---
 
 ## Angebot
