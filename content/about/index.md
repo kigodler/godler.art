@@ -2,8 +2,17 @@
 title: ""
 ---
 
+#### Aktuelles
+* Lesung in Friesach: _auf.türmen_ (28.Aug.2021)
+* Lesung in Ossiach: _Versuche zur Landschaft_ Architektur Haus Kärnten (16.Sept.2021) 
+* Lesung in Villach: _Literatur um 11 Uhr_ (26.Sept.2021)
+
+<p><br/></p>
+
+#### Biografie
 <img style="height: 300px" src="godler2_300px.jpg" />
 <p>Katharina Ingrid Godler wurde 1991 in Wien Favoriten geboren. Sie studierte Vergleichende Literaturwissenschaft an der Universität Wien. An der Akademie der Wissenschaften (ÖAW) und an der Universität Klagenfurt (AAU) forschte sie zu Ilse Aichinger, Thomas Bernhard, Karl Kraus und Robert Musil. Sie lebt und arbeitet als Schriftstellerin in Klagenfurt am Wörthersee.</p>
+
 <p><br/></p>
 <h4 id="impressum">Impressum</h4>
 <p>Verantwortlich für die Inhalte dieser Seite:</p>
