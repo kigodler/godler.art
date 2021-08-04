@@ -17,13 +17,14 @@ title: ""
 * Sorgfältige Recherche
 * Sprachliche Korrektheit
 * Innovative Gestaltung
+* Verlässlichkeit
 
 
 #### Ich lege wert auf
 
 * Kooperieren und gemeinsames Entwickeln
 * einen freundlichen, ausgelassenen Austausch
-* Ich verstehe mich als Projektpartnerin im Zuge Ihres Projekts
+* Ich verstehe mich als Partnerin im Zuge Ihres Projekts
 
 
 #### Bisherige Kooperationen mit
