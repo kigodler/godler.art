@@ -1,4 +1,7 @@
-baseURL = "http://godler.art/"
+baseURL = "//godler.art/"
+relativeURLs = true
+canonifyURLs = true
+
 languageCode = "de-at"
 title = "Katharina Godler"
 theme = "hello-friend-ng"
