@@ -20,7 +20,7 @@ title: ""
 * Verlässlichkeit
 
 
-#### Ich lege wert auf
+#### Ich lege Wert auf
 
 * Kooperieren und gemeinsames Entwickeln
 * einen freundlichen, ausgelassenen Austausch
