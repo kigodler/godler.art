@@ -18,6 +18,10 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+    
+    # Step 1 - Checks-out your repository under $GITHUB_WORKSPACE
+    - name: Checkout
+      uses: actions/checkout@v2
 
     # Step 2 - Sets up the latest version of Hugo
     - name: Setup Hugo
