@@ -420,7 +420,17 @@ hr {
   background-attachment: fixed;
   background-size: cover;
   background-position: center center;
+
+  background-image: url('home/RauchenwaldWebseite-Startseite.jpg');
+  background-size: 800px;
+
+  @media #{$media-size-phone} {
+    background-image: url('home/RauchenwaldWebseite-Startseite_mobile.webp'); 
+    background-size: 800px;
+  }
 }
+
+
 
 // Prism JS Additionals
 .highlight {
