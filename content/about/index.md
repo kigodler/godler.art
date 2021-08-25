@@ -15,7 +15,7 @@ title: ""
 
 <p><br/></p>
 <h4 id="impressum">Impressum</h4>
-Fotos: <a href="https://martinrauchenwald.com/">Martin Rauchenwald</a>
+Porträtfotos: <a href="https://martinrauchenwald.com/">Martin Rauchenwald</a>
 <p>Verantwortlich für die Inhalte dieser Seite:</p>
 <p>Katharina Godler<br/>
 Eppensteinerstraße 6<br/>
