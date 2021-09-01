@@ -2,10 +2,11 @@
 title: ""
 ---
 
-#### Aktuelles
-* Lesung | _auf.türmen_ Friesach-Literaturfestival | Kärntner Schriftstellerinnen Verband <a href="https://kaerntner-schriftsteller.at/" target="_blank">KSV</a> (28.Aug.2021)
-* Lesung | _Versuche zur Landschaft_ in Ossiach | Land Kärnten | <a href="https://architektur-kaernten.at/programm/kalender/versuche-zur-landschaft" target="_blank">Baukulturjahr 2021</a> (16.Sept.2021) 
-* Lesung | _Literatur um 11_ im Warmbaderhof Villach | im Rahmen des Projekts <a href="https://www.kulturstiftung.at/aktuell/termine-siegerprojekte/" target="_blank">flussaufwärts</a> | <a href="https://kaerntner-schriftsteller.at/" target="_blank">KSV</a> (26.Sept.2021)
+#### Aktuelles - Lesungen
+* 28.Aug.2021 | _auf.türmen_ Friesach-Literaturfestival | Kärntner Schriftstellerinnen Verband <a href="https://kaerntner-schriftsteller.at/" target="_blank">KSV</a>
+* 16.Sept.2021 | _Versuche zur Landschaft_ in Ossiach | Land Kärnten | <a href="https://architektur-kaernten.at/programm/kalender/versuche-zur-landschaft" target="_blank">Baukulturjahr 2021</a> 
+* 26.Sept.2021 | _Literatur um 11_ im Warmbaderhof Villach | im Rahmen des Projekts <a href="https://www.kulturstiftung.at/aktuell/termine-siegerprojekte/" target="_blank">flussaufwärts</a> | <a href="https://kaerntner-schriftsteller.at/" target="_blank">KSV</a>
+* 19.Okt.2021 | Café Amadeus Wien | mit Musikerin Anna Mabo | organisiert von Christian Schreibmüller
 
 <p><br/></p>
 
