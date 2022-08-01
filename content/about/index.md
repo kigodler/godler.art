@@ -4,11 +4,16 @@ title: ""
 
 #### Lesungen
 
-* <span style=“color:grey“>21. April 2022 | <a href="https://www.mwg.or.at/programm-2022/">Millstätter Wirtschaftsgespräche</a> | 18h</span>
-* <span style=“color:grey“>28. April 2022 | <a href="https://wolkenflug.at/">FLUID IDENTITIES HYBRID | Theater Wolkenflug</a> | Klagenfurt| Neuer Platz | 12h</span>
+* <span style=“color:grey“>13. Sept. 2022 | <a href="https://www.stifterhaus.at/">Stifter Haus</a> | Heftpräsentation | Die Rampe 2/2022 | Linz | 12.30h</span>
+
+#### Moderationen
+
+* <span style=“color:grey“>17. Sept. 2022 | <a href="https://www.literaturmeile.at/">Literaturmeile</a> | Buchpräsentation und Gespräch mit Lukas Pellmann und Josef Kleindienst | Wien | Zieglergasse | tba.</span>
 
 #### Vergangene
 
+* <span style=“color:grey“>21. April 2022 | <a href="https://www.mwg.or.at/programm-2022/">Millstätter Wirtschaftsgespräche</a> | 18h</span>
+* <span style=“color:grey“>28. April 2022 | <a href="https://wolkenflug.at/">FLUID IDENTITIES HYBRID | Theater Wolkenflug</a> | Klagenfurt| Neuer Platz | 12h</span>
 * <span style=“color:grey“>23. März 2022 | <a href="https://innenhofkultur.at/termine/lesung-mit-katharina-godler-und-david-poelzl-villa-for-forest/">Innenhofkultur</a> mit Autor David Pölzl | Villa For Forest | Klagenfurt | 19.30h</span>
 * <span style=“color:grey“>16. Dez. 2021 | <a href="https://www.facebook.com/events/3114396665552831">Donnerszenen</a> mit Musiker Matthias Forenbacher in der Galerie M | Alter Platz 22 | Klagenfurt | 16.45h und 17.45h</span>
 * 19.Okt.2021 | 19.30 Uhr | <a href="https://www.facebook.com/events/417808883035395/" target="_blank">Café Amadeus Wien</a> | mit Musikerin Anna Mabo | organisiert von Christian Schreibmüller
