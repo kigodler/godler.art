@@ -18,3 +18,4 @@ resources:
 * _Der dreißigste Schattenfall_ im Jahrbuch 2021 _Lyrik der Gegenwart_ (August 2021)
 * _Das Geheimnis der Birkenblühkätzchen_ in der 231. Ausgabe der Literaturzeitschrift _manuskripte_ (Juli 2021)
 * _Erinnerung in Türkis_ im Film <a href="https://www.youtube.com/watch?v=lQV4y-eWekA">VERSUCHE ZUR LANDSCHAFT</a>: Interpretationen gefilmter Landschafts- und Raumsequenzen mit Literatur und Musik. Eine Initiative vom Architektur Haus Kärnten
+* _Hahn und Birkenmilch_ in der Lyriksendereihe <a href="https://cba.fro.at/568058">Lyrische Momente | Lirični utrinki</a> | Radio Agora 105|5 | gesendet am 25. Juli 2022 | 11:45h
