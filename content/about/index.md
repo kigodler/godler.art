@@ -48,6 +48,6 @@ Eppensteinerstraße 6<br/>
 
 <p>Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt oder Ihre datenschutzrechtlichen Ansprüche sonst in einer Weise verletzt worden sind, können Sie sich bei katharina@godler.art oder der Datenschutzbehörde melden.</p>
 <p></p>
-<p>Sie erreichen mit folgenden Kontaktdaten:<br/>
+<p>Sie erreichen mich mit folgenden Kontaktdaten:<br/>
 Katharina Godler<br/>
 <a href="katharina@godler.art">katharina@godler.art</a></p>
