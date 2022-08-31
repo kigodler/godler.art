@@ -4,7 +4,7 @@ title: ""
 
 #### Lesungen
 
-* <span style=“color:grey“>13. Sept. 2022 | <a href="https://www.stifterhaus.at/">Stifter Haus</a> | Heftpräsentation | Die Rampe 2/2022 | Linz | 12.30h</span>
+* <span style=“color:grey“>13. Sept. 2022 | <a href="https://stifterhaus.at/programm/veranstaltungen/veranstaltung?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=13798&cHash=c98debcd3a97d7eb3158256049224d2e">Stifter Haus</a> | Heftpräsentation | _Die Rampe_ 2/2022 | Linz | 12.30h</span>
 
 #### Moderationen
 
