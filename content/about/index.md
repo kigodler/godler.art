@@ -4,7 +4,8 @@ title: ""
 
 #### Lesungen
 
-* <span style=“color:grey“>13. Sept. 2022 | <a href="https://stifterhaus.at/programm/veranstaltungen/veranstaltung?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=13798&cHash=c98debcd3a97d7eb3158256049224d2e">Stifter Haus</a> | Heftpräsentation | _Die Rampe_ 2/2022 | Linz | 12.30h</span>
+* <span style=“color:grey“>22. Okt. 2022 | 11h | Galerie M | Alter Platz 22 | Klagenfurt | Lesung aus dem Text EINANDER ENTGEGEN | erschienen in _Die Rampe_ 2/2022</span>
+* <span style=“color:grey“>3. bis 5. Nov. | tba | poesiegalerie | Wien | Lesung aus dem aktuellen lyrischen Projekt MEMOIREN EINER KÖRPERSPRACHE</span>
 
 #### Moderationen
 
@@ -12,6 +13,7 @@ title: ""
 
 #### Vergangene
 
+* <span style=“color:grey“>13. Sept. 2022 | <a href="https://stifterhaus.at/programm/veranstaltungen/veranstaltung?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=13798&cHash=c98debcd3a97d7eb3158256049224d2e">Stifter Haus</a> | Heftpräsentation | _Die Rampe_ 2/2022 | Linz | 12.30h</span>
 * <span style=“color:grey“>28. April 2022 | <a href="https://wolkenflug.at/">FLUID IDENTITIES HYBRID | Theater Wolkenflug</a> | Klagenfurt| Neuer Platz | 12h</span>
 * <span style=“color:grey“>21. April 2022 | <a href="https://www.mwg.or.at/programm-2022/">Millstätter Wirtschaftsgespräche</a> | 18h</span>
 * <span style=“color:grey“>23. März 2022 | <a href="https://innenhofkultur.at/termine/lesung-mit-katharina-godler-und-david-poelzl-villa-for-forest/">Innenhofkultur</a> mit Autor David Pölzl | Villa For Forest | Klagenfurt | 19.30h</span>
