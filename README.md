@@ -7,4 +7,4 @@
 1. `git pull` to get the latest state
 1. make changes in the content
 1. `git commit -a -m "<message what has been done>"`
-1. `git push` to send the changes to the server and update the websites
+1. `git push` to send the changes to the server and update the websitescd

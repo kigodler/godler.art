@@ -7,7 +7,7 @@ resources:
   src: godler2.jpg
 ---
 
-<span style=“color:grey“>Am 15. März 2023 erscheint der Gedichtband Die Filmstadt am Rande der Kindheit im <a href="http://limbusverlag.at/index.php/filmstadt-am-rande-der-kindheit"> Limbus Verlag</a></span>
+<span style=“color:grey“>Am 15. März 2023 erscheint der Gedichtband _Die Filmstadt am Rande der Kindheit_ im <a href="http://limbusverlag.at/index.php/filmstadt-am-rande-der-kindheit"> Limbus Verlag</a></span>
 
 ## Auszeichnungen
 
