@@ -2,17 +2,21 @@
 title: ""
 ---
 
-#### Lesungen
+<span style=“color:grey“>Am 15. März 2023 erscheint der Gedichtband Die Filmstadt am Rande der Kindheit im <a href="http://limbusverlag.at/index.php/filmstadt-am-rande-der-kindheit"> Limbus Verlag</a></span>
 
-* <span style=“color:grey“>22. Okt. 2022 | 11h | Galerie M | Alter Platz 22 | Klagenfurt | Lesung aus dem Text EINANDER ENTGEGEN | erschienen in _Die Rampe_ 2/2022</span>
-* <span style=“color:grey“>3. bis 5. Nov. | tba | poesiegalerie | Wien | Lesung aus dem aktuellen lyrischen Projekt MEMOIREN EINER KÖRPERSPRACHE</span>
+
+
+#### Lesungen
+... Bald wird hier der Veranstaltungskalender für das Frühjahr 2023 stehen ...
+
+
 
 #### Moderationen
+* <span style=“color:grey“>27. Jänner 2023 | 19.30h | <a href="https://www.aau.at/blog/27-01-texte-n/">Robert-Musil-Institut</a> | Klagenfurt | Jungen Autor:innen präsentieren ihre Literatur</span>
 
-* <span style=“color:grey“>17. Sept. 2022 | <a href="https://www.literaturmeile.at/">Literaturmeile</a> | Buchpräsentation und Gespräch mit Lukas Pellmann und Josef Kleindienst | Wien | Zieglergasse | tba.</span>
 
 #### Vergangene
-
+* <span style=“color:grey“>22. Okt. 2022 | 11h | Galerie M | Alter Platz 22 | Klagenfurt | Lesung aus dem Text EINANDER ENTGEGEN | erschienen in _Die Rampe_ 2/2022</span>
 * <span style=“color:grey“>13. Sept. 2022 | <a href="https://stifterhaus.at/programm/veranstaltungen/veranstaltung?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=13798&cHash=c98debcd3a97d7eb3158256049224d2e">Stifter Haus</a> | Heftpräsentation | _Die Rampe_ 2/2022 | Linz | 12.30h</span>
 * <span style=“color:grey“>28. April 2022 | <a href="https://wolkenflug.at/">FLUID IDENTITIES HYBRID | Theater Wolkenflug</a> | Klagenfurt| Neuer Platz | 12h</span>
 * <span style=“color:grey“>21. April 2022 | <a href="https://www.mwg.or.at/programm-2022/">Millstätter Wirtschaftsgespräche</a> | 18h</span>
