@@ -2,12 +2,25 @@
 title: ""
 ---
 
-<span style=“color:grey“>Am 15. März 2023 erscheint der Gedichtband _Die Filmstadt am Rande der Kindheit_ im <a href="http://limbusverlag.at/index.php/filmstadt-am-rande-der-kindheit"> Limbus Verlag</a></span>
+<span style=“color:grey“>Am 15. März 2023 erschien der Gedichtband _Die Filmstadt am Rande der Kindheit_ im <a href="http://limbusverlag.at/index.php/filmstadt-am-rande-der-kindheit"> Limbus Verlag</a></span>
 
 
 
 #### Lesungen
-... Bald wird hier der Veranstaltungskalender für das Frühjahr 2023 stehen ...
+Lesungen
+
+<p>08. März | @Österreichische Gesellschaft für Literatur | Wien</p>
+<p>18. März | @KSV-Literaturfrühstück Kunstverein Kärnten | 11h</p>
+<p>26. März | Private Book Release | Klagenfurt</p>
+<br/>
+<p>18. April | @Musilmuseum | Klagenfurt | 19.30h</p>
+<p>25. April | Private Book Release @Salonage | Wien</p>
+<br/>
+<p>16. Mai | Music and Poetry @Murinsel | Graz | 20h</p>
+<p>tba im Mai | @Kleine Freiheit unverpackt | Klagenfurt | 19h</p>
+<br/>
+<p>20. Juni | @Ortner Bücher | Wien | 19h</p>
+<p>22. Juni | @Buchhandlung Orlando | Wien | 19h</p>
 
 
 
