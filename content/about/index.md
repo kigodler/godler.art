@@ -5,6 +5,7 @@ title: ""
 
 #### Lesungen aus dem Gedichtband "Die Filmstadt am Rande der Kindheit"
 <p>erschienen am 15. März 2023 im <a href="http://limbusverlag.at/index.php/filmstadt-am-rande-der-kindheit"> Limbus Verlag</a></p>
+<br/>
 <p>08. März | @Österreichische Gesellschaft für Literatur | Wien</p>
 <p>18. März | @KSV-Literaturfrühstück Kunstverein Kärnten | 11h</p>
 <p>26. März | Private Book Release | Klagenfurt</p>
