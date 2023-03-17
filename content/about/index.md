@@ -6,8 +6,7 @@ title: ""
 #### Lesungen aus dem Gedichtband "Die Filmstadt am Rande der Kindheit"
 <p>erschienen am 15. März 2023 im <a href="http://limbusverlag.at/index.php/filmstadt-am-rande-der-kindheit"> Limbus Verlag</a></p>
 <br/>
-<p>08. März | @Österreichische Gesellschaft für Literatur | Wien</p>
-<p>18. März | @KSV-Literaturfrühstück Kunstverein Kärnten | 11h</p>
+<p>18. März | <a href="https://www.facebook.com/events/1245587673055663">KSV-Literaturfrühstück</a> Kunstverein Kärnten | 11h</p>
 <p>26. März | Private Book Release | Klagenfurt</p>
 <p>18. April | @Musilmuseum | Klagenfurt | 19.30h</p>
 <p>25. April | Private Book Release @Salonage | Wien</p>
@@ -19,10 +18,11 @@ title: ""
 
 
 #### Moderationen
-* <span style=“color:grey“>27. Jänner 2023 | 19.30h | <a href="https://www.aau.at/blog/27-01-texte-n/">Robert-Musil-Institut</a> | Klagenfurt | Jungen Autor:innen präsentieren ihre Literatur</span>
+<span style=“color:grey“>27. Jänner 2023 | 19.30h | <a href="https://www.aau.at/blog/27-01-texte-n/">Robert-Musil-Institut</a> | Klagenfurt | Jungen Autor:innen präsentieren ihre Literatur</span>
 
 
 #### Vergangene
+<p>08. März 2023 | Österreichische Gesellschaft für Literatur | Wien</p>
 <span style=“color:grey“>22. Okt. 2022 | 11h | Galerie M | Alter Platz 22 | Klagenfurt | Lesung aus dem Text EINANDER ENTGEGEN | erschienen in _Die Rampe_ 2/2022</span>
 <span style=“color:grey“>13. Sept. 2022 | <a href="https://stifterhaus.at/programm/veranstaltungen/veranstaltung?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=13798&cHash=c98debcd3a97d7eb3158256049224d2e">Stifter Haus</a> | Heftpräsentation | _Die Rampe_ 2/2022 | Linz | 12.30h</span>
 <span style=“color:grey“>28. April 2022 | <a href="https://wolkenflug.at/">FLUID IDENTITIES HYBRID | Theater Wolkenflug</a> | Klagenfurt| Neuer Platz | 12h</span>
