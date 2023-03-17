@@ -7,21 +7,16 @@ title: ""
 
 
 #### Lesungen
-Lesungen
-
 <p>08. März | @Österreichische Gesellschaft für Literatur | Wien</p>
 <p>18. März | @KSV-Literaturfrühstück Kunstverein Kärnten | 11h</p>
 <p>26. März | Private Book Release | Klagenfurt</p>
-<br/>
 <p>18. April | @Musilmuseum | Klagenfurt | 19.30h</p>
 <p>25. April | Private Book Release @Salonage | Wien</p>
-<br/>
 <p>16. Mai | Music and Poetry @Murinsel | Graz | 20h</p>
 <p>tba im Mai | @Kleine Freiheit unverpackt | Klagenfurt | 19h</p>
-<br/>
 <p>20. Juni | @Ortner Bücher | Wien | 19h</p>
 <p>22. Juni | @Buchhandlung Orlando | Wien | 19h</p>
-
+<br/>
 
 
 #### Moderationen
